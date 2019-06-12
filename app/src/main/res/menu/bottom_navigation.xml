@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/monsters"
+        android:icon="@drawable/undertale_monsters"
+        android:title="Monsters" />
+
+    <item
+        android:id="@+id/world"
+        android:icon="@drawable/undertale_world"
+        android:title="World"/>
+
+    <item
+        android:id="@+id/frisk"
+        android:icon="@drawable/undertale_frisk"
+        android:title="Humans"/>
+</menu>
